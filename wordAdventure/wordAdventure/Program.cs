@@ -21,7 +21,7 @@ internal class Program
             char character1 = '1';
             char character2 = '2';
 
-          
+           
 
             bool result1;
 
@@ -108,6 +108,7 @@ internal class Program
         }
 
 
+        //
         //        if (UserInput == "Alex")
         //        {
         //            Console.WriteLine("That's uh, that's a name for sure!...");

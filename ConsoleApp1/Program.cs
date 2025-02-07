@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System.ComponentModel.Design;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -11,5 +13,11 @@
         string message = (userValue == "1") ? "boat" : "strand of lint";
 
         Console.WriteLine($"You have input {userValue}, therefore you win a {message}");
+
+
+
+
+
     }
+    
 }
